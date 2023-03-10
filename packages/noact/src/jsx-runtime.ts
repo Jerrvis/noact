@@ -1,7 +1,7 @@
 import { NOACT_ELEMENT_TYPE } from 'shared/NoactSymbols'
-import { Key, Ref, Props, ElementType } from 'shared/NoactTypes'
+import { Key, Ref, Props, Type } from 'shared/NoactTypes'
 
-export const jsx = (type: ElementType, config: any) => {
+export const jsx = (type: Type, config: any) => {
   let key: Key = null
   const props: Props = {}
   let ref: Ref = null
