@@ -1,0 +1,14 @@
+{
+  "name": "noact-reconciler",
+  "version": "1.0.0",
+  "description": "noact reconciler",
+  "main": "index.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "noact-dom-bindings": "workspace:^1.0.0",
+    "scheduler": "workspace:^1.0.0",
+    "shared": "workspace:^1.0.0"
+  }
+}

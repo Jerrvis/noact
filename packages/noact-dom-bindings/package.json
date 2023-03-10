@@ -1,0 +1,12 @@
+{
+  "name": "noact-dom-bindings",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "noact-reconciler": "workspace:^1.0.0",
+    "shared": "workspace:^1.0.0"
+  }
+}

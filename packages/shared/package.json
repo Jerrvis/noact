@@ -1,0 +1,11 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "utils and type of noact",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "noact-reconciler": "workspace:^1.0.0"
+  }
+}
